@@ -57,7 +57,7 @@ To list all plugins in current installation:
 
 In order to install the latest version of the plugin, simply run:
 
-    sudo bin/elasticsearch-plugin install gr.skroutz:elasticsearch-skroutz-greekstemmer:7.7.0.1
+    sudo bin/elasticsearch-plugin install gr.skroutz:elasticsearch-skroutz-greekstemmer:7.17.0.1
 
 To install version 5.4.2.6 run:
 
@@ -78,8 +78,10 @@ To remove a plugin (5.x.x/7.x.x):
 Versions
 --------
 
-SkroutzGreekStemmer Plugin | ElasticSearch | Branch
+SkroutzGreekStemmer Plugin | ElasticSearch | Branch 
 ---------------------------|---------------|--------|
+7.17.0.1                   | 7.17.0        | 7.17.0 |
+7.7.0.5                    | 7.7.0         | 7.7.0  |
 7.7.0.2                    | 7.7.0         | 7.7.0  |
 7.7.0.1                    | 7.7.0         | 7.7.0  |
 5.4.2.6                    | 5.4.2         | 5.4.2  |
