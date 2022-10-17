@@ -1,7 +1,7 @@
 package org.elasticsearch.index.analysis;
 
-import org.testng.Assert;
-import org.testng.annotations.Test;
+import org.junit.Assert;
+import org.junit.Test;
 
 public class SkroutzGreekStemmerTest {
   private final SkroutzGreekStemmer stemmer = new SkroutzGreekStemmer();
